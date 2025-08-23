@@ -8,6 +8,17 @@ Perfect for notes, emails, messages, or any moment when typing just won’t do.
 - 📱 [Download on the App Store](https://apps.apple.com/us/app/superwhisper/id6471464415)  
 - 🌐 [Visit superwhisper.com](https://superwhisper.com)  
 
+## 📚 Docs
+
+Looking to learn more? Check out the full documentation:  
+- [Documentation](https://superwhisper.com/documentation)
+
+## 💬 Feedback
+
+We’d love to hear from you:  
+- 📝 Vote for features at [superwhisper.com/feedback](https://feedback.superwhisper.com)  
+- 🐞 Found a bug? Let us know so we can fix it quickly.  
+
 ## ✨ Why Superwhisper?
 
 - ⚡ Ultra-fast transcription powered by cutting-edge AI  
